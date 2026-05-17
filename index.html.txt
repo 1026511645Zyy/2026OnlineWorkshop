@@ -1,0 +1,300 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Osaka-Tsukuba Online Workshop on Complex Geometry and Dynamics</title>
+
+<style>
+body {
+    font-family: Arial, sans-serif;
+    background: #f4f6f8;
+    margin: 0;
+}
+
+.container {
+    max-width: 950px;
+    margin: 40px auto;
+    background: white;
+    padding: 30px;
+    border-radius: 8px;
+    line-height: 1.7;
+}
+
+h1 {
+    text-align: center;
+}
+
+.section {
+    margin-top: 40px;
+}
+
+table {
+    width: 100%;
+    border-collapse: collapse;
+}
+
+td, th {
+    border: 1px solid #ccc;
+    padding: 10px;
+    vertical-align: top;
+}
+
+th {
+    background-color: #f5f5f5;
+}
+
+.abstract-box {
+    margin-top: 25px;
+    padding: 20px;
+    background: #fafafa;
+    border-left: 4px solid #888;
+}
+
+.abstract-box h3 {
+    margin-top: 0;
+}
+
+.note {
+    margin-top: 40px;
+    padding: 15px;
+    background: #fff8e1;
+    border-left: 4px solid #e0b400;
+}
+</style>
+
+</head>
+
+<body>
+
+<div class="container">
+
+<h1>Osaka-Tsukuba Online Workshop on Complex Geometry and Dynamics</h1>
+
+<div class="section">
+<p><b>Dates:</b> May–July 2026</p >
+<p><b>Format:</b> Online</p >
+
+<p>
+<b>Schedule:</b><br>
+Each talk is basically planned to start at 14:30 (JST).<br>
+The duration of each talk is expected to be approximately 60–90 minutes.<br>
+Please note that the schedule may slightly change depending on the speaker’s circumstances.
+</p >
+
+<p>
+For the first talk on May 14, the current planned schedule is:<br>
+14:00–14:30 : informal discussion / setup time<br>
+14:30–16:10 : talk
+</p >
+
+<p>
+Participants are also warmly welcome to join during the informal discussion time before the talk.
+</p >
+
+<p>
+Please note that the Zoom link will not be posted on this website.<br>
+It will be announced separately by email to participants.
+</p >
+
+</div>
+
+<div class="section">
+<h2>Speakers</h2>
+<ul>
+<li>Masanori Adachi （足立真訓・静岡大）</li>
+<li>Morimichi Kawasaki （川﨑盛通・北海道大）</li>
+<li>Takayuki Koike （小池貴之・筑波大）</li>
+<li>Yohsuke Matsuzawa （松澤陽介・大阪公立大）</li>
+<li>Noboru Ogawa （小川竜・東海大）</li>
+<li>Masakazu Takakura （高倉真和・東京都立大）</li>
+<li>Takato Uehara （上原崇人・慶應大）</li>
+</ul>
+</div>
+
+<div class="section">
+<h2>Schedule</h2>
+
+<table>
+<tr>
+<th>Date</th>
+<th>Speaker</th>
+<th>Title</th>
+</tr>
+
+<tr>
+<td>May 14 (Thu)</td>
+<td>Morimichi Kawasaki （川﨑盛通）</td>
+<td>Reznikov特性類の非自明性について</td>
+</tr>
+
+<tr>
+<td>May 22 (Fri)</td>
+<td>Masanori Adachi （足立真訓）</td>
+<td>ファイバー束の擬凸性について</td>
+</tr>
+
+<tr>
+<td>May 28 (Thu)</td>
+<td>Takayuki Koike （小池貴之）</td>
+<td>コンパクト複素部分多様体の近傍と弱擬凸性</td>
+</tr>
+
+<tr>
+<td>June 5 (Fri)</td>
+<td>Noboru Ogawa （小川竜）</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>June 12 (Fri)</td>
+<td>Yohsuke Matsuzawa （松澤陽介）</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>July 3 (Fri)</td>
+<td>Takato Uehara （上原崇人）</td>
+<td>TBA</td>
+</tr>
+
+<tr>
+<td>July 10 (Fri)</td>
+<td>Masakazu Takakura （高倉真和）</td>
+<td>TBA</td>
+</tr>
+
+</table>
+
+</div>
+
+<div class="section">
+<h2>Abstracts</h2>
+
+<div class="abstract-box">
+<h3>Masanori Adachi （足立真訓）</h3>
+
+<p><b>Title:</b> ファイバー束の擬凸性について</p >
+
+<p>
+<b>Abstract:</b><br>
+コンパクト複素多様体上の正則ファイバー束を考え、その部分ファイバー束となる領域を考える。
+この領域が仮に局所擬凸であったとしても、領域の大域的な擬凸性には様々なバリエーションが生じ、
+強擬凸 (1凸) となることもあれば、弱擬凸 (弱1完備) にさえならないこともある。
+ファイバー束の擬凸性について知られている結果を概観し、どのような問題を考えるべきか議論したい。
+</p >
+</div>
+
+<div class="abstract-box">
+<h3>Morimichi Kawasaki （川﨑盛通）</h3>
+
+<p><b>Title:</b> Reznikov特性類の非自明性について</p >
+
+<p>
+<b>Abstract:</b><br>
+Reznikovはシンプレクティック微分同相群の群コホモロジーの元として特性類を構成した。
+Reznikovはこの特性類を定義する際にシンプレクティック構造と適合する概複素構造のなす
+無限次元ケーラー多様体を用いている。
+</p >
+
+<p>
+講演者らはいくつかのシンプレクティック多様体において
+この特性類が非自明であることを示したので、その仕事について説明する。
+</p >
+
+<p>
+本研究は木村満晃(大阪歯科大)、丸山修平(金沢大)、松下尚弘(信州大)、
+見村万佐人(東北大)との共同研究である。
+</p >
+</div>
+
+<div class="abstract-box">
+<h3>Takayuki Koike （小池貴之）</h3>
+
+<p><b>Title:</b> コンパクト複素部分多様体の近傍と弱擬凸性</p >
+
+<p>
+<b>Abstract:</b><br>
+多変数函数論においては、何らかの擬凸性を持つ複素領域・複素多様体が中心的に扱われる。
+この講演では、内、弱い意味でのみ擬凸性を満たすような場合特有の現象を概観したい。
+</p >
+
+<p>
+関連して、複素多様体のコンパクト複素部分多様体の近傍に於ける
+そのような領域の振る舞いについて、
+なるたけ具体例を挙げつつ述べたい。
+</p >
+</div>
+
+<div class="abstract-box">
+<h3>Yohsuke Matsuzawa （松澤陽介）</h3>
+
+<p><b>Title:</b> TBA</p >
+
+<p><b>Abstract:</b><br>
+To be announced.
+</p >
+</div>
+
+<div class="abstract-box">
+<h3>Noboru Ogawa （小川竜）</h3>
+
+<p><b>Title:</b> TBA</p >
+
+<p><b>Abstract:</b><br>
+To be announced.
+</p >
+</div>
+
+<div class="abstract-box">
+<h3>Masakazu Takakura （高倉真和）</h3>
+
+<p><b>Title:</b> TBA</p >
+
+<p><b>Abstract:</b><br>
+To be announced.
+</p >
+</div>
+
+<div class="abstract-box">
+<h3>Takato Uehara （上原崇人）</h3>
+
+<p><b>Title:</b> TBA</p >
+
+<p><b>Abstract:</b><br>
+To be announced.
+</p >
+</div>
+
+</div>
+
+<div class="section">
+<h2>Contact</h2>
+
+<p>
+<b>Zhang Yangyang</b><br>
+Graduate School of Science, Osaka Metropolitan University<br>
+sk23162w@st.omu.ac.jp
+</p >
+
+<p>
+<b>Shin Jiyong</b><br>
+Graduate School of Science, Osaka Metropolitan University<br>
+sb26761x@st.omu.ac.jp
+</p >
+
+</div>
+
+<div class="note">
+<b>Note:</b><br>
+The schedule for June and July is subject to change.<br>
+Please check this website for the latest updates.
+</div>
+
+<div style="margin-top:40px; text-align:right; color:gray; font-size:0.9em;">
+Last updated: May 13, 2026
+</div>
+
+</div>
+
+</body>
+</html>
